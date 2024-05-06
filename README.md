@@ -1,2 +1,3 @@
-# Two-Tier Deployment of Python Application
+# Deployment of Python Application
 
+Automating the deployment of a two-tier application.
